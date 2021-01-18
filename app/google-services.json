@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257012299",
+    "firebase_url": "https://keepcontacts-2a073.firebaseio.com",
+    "project_id": "keepcontacts-2a073",
+    "storage_bucket": "keepcontacts-2a073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257012299:android:979149480f3af5de8413ce",
+        "android_client_info": {
+          "package_name": "com.example.keepmycontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257012299-ttj24qfm1fn83f0bgbh22gahf79lg2ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZyZ_bAnzEoDzrjHcmlIWxvvikvv5ViU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257012299-ttj24qfm1fn83f0bgbh22gahf79lg2ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
